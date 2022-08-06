@@ -29,8 +29,8 @@ const  App = () => {
 	},
 ];
 const addExpenseHandler = expenses =>{
-	console.log('In App.js')
-	console.log(expenses)
+	console.log('In App.js');
+	console.log(expenses);
 }
 //   return React.createElement(
 //     'div',
